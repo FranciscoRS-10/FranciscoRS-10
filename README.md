@@ -11,6 +11,9 @@
  <p align="center">
     <a href="https://github.com/FranciscoRS-10/Tecnico-Profesional-Francisco-Rodriguez-Segura#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=100&lines=Tecnico+Profesional+Francisco+Rodriguez+Segura"/> </a>
 </p>
+<p align="center">
+    <a href="https://github.com/FranciscoRS-10/Tecnico-Profesional#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=100&lines=Francisco+Rodriguez+Segura"/> </a>
+</p>
 
 <details open> 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
@@ -89,10 +92,13 @@
   </a>
 </p>
 
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
+<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<hr>
 
 # Icons List
 
-Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
 |      Icon ID       |                         Icon                          |
 | :----------------: | :---------------------------------------------------: |
@@ -334,9 +340,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<hr>
+
 
 ## Support Me
