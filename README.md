@@ -15,7 +15,7 @@
     <a href="https://github.com/FranciscoRS-10/Francisco-Rodriguez-Segura#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=100&lines=Francisco+Rodriguez+Segura"/> </a>
 </p>
 
-<details open> 
+
   <!--<summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>-->
   <table border="3" align="center">
     <td align="center">
@@ -71,7 +71,7 @@
     <td align="center"><a href="https://twitter.com/FranciscoRS-10">
      <img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
   </table>
-</details>
+
 
 ## Socials
 
