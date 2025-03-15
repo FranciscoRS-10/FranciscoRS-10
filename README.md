@@ -9,7 +9,7 @@
 
 ## Skills
  <p align="center">
-    <a href="https://github.com/FranciscoRS-10/Tecnico-Profesional-Francisco-Rodriguez-Segura#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=Tecnico+Profesional+Francisco+Rodriguez+Segura"/> </a>
+    <a href="https://github.com/FranciscoRS-10/Tecnico-Profesional-Francisco-Rodriguez-Segura#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=100&lines=Tecnico+Profesional+Francisco+Rodriguez+Segura"/> </a>
 </p>
 
 <details open> 
