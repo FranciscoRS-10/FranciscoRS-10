@@ -6,3 +6,15 @@
 - 🖥️ Check --out my portfolio at Francisco R.S.
 - ✉️ You can contact me at segurafrancis.rod10@gmail.com.
 - 🧠 I'm learning a new framework.
+
+## Skills
+
+
+## Socials
+
+
+## Badges
+  My GitHub Stats
+
+
+## Support Me
