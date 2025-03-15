@@ -16,7 +16,7 @@
 </p>
 
 <details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
+  <!--<summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>-->
   <table border="3" align="center">
     <td align="center">
      <a href="https://www.youtube.com/" target="_blank" align="center">
@@ -121,6 +121,7 @@
   </a>
 </p>
 
+<hr>
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Tools for programming</h3>
