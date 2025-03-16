@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sponsors/FranciscoRS-10" target="_blank">
-       <img align="center" src="https://github.com///blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65"/>
+       <img align="center" src="https://github.com/FranciscoRS-10/FranciscoRS-10/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65"/>
      </a>
     </td>
     <td align="center">
